@@ -7,6 +7,7 @@ this is modified
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0009-palindrome-number) |
+| [2050-count-good-numbers](https://github.com/AbdusSamadAli/DSA-/tree/master/2050-count-good-numbers) |
 ## Array
 |  |
 | ------- |
@@ -23,4 +24,8 @@ this is modified
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0812-rotate-string) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/AbdusSamadAli/DSA-/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
