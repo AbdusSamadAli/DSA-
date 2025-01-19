@@ -15,4 +15,12 @@ this is modified
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/AbdusSamadAli/DSA-/tree/master/0540-single-element-in-a-sorted-array) |
+## String
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0812-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
