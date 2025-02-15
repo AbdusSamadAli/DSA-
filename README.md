@@ -8,6 +8,7 @@ this is modified
 | ------- |
 | [0009-palindrome-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0009-palindrome-number) |
 | [2050-count-good-numbers](https://github.com/AbdusSamadAli/DSA-/tree/master/2050-count-good-numbers) |
+| [2383-add-two-integers](https://github.com/AbdusSamadAli/DSA-/tree/master/2383-add-two-integers) |
 ## Array
 |  |
 | ------- |
