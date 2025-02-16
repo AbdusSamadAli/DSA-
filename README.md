@@ -13,6 +13,7 @@ this is modified
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/AbdusSamadAli/DSA-/tree/master/0056-merge-intervals) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0229-majority-element-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AbdusSamadAli/DSA-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -21,6 +22,7 @@ this is modified
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AbdusSamadAli/DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AbdusSamadAli/DSA-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
