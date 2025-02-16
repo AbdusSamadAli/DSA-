@@ -15,10 +15,12 @@ this is modified
 | [0056-merge-intervals](https://github.com/AbdusSamadAli/DSA-/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0229-majority-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AbdusSamadAli/DSA-/tree/master/0540-single-element-in-a-sorted-array) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AbdusSamadAli/DSA-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Binary Search
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/AbdusSamadAli/DSA-/tree/master/0540-single-element-in-a-sorted-array) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AbdusSamadAli/DSA-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## String
 |  |
 | ------- |
