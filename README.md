@@ -33,6 +33,7 @@ this is modified
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0812-rotate-string) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AbdusSamadAli/DSA-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
 |  |
 | ------- |
@@ -63,4 +64,8 @@ this is modified
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/2047-find-a-peak-element-ii) |
+## Stack
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AbdusSamadAli/DSA-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
