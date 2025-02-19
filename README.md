@@ -37,6 +37,7 @@ this is modified
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0131-palindrome-partitioning](https://github.com/AbdusSamadAli/DSA-/tree/master/0131-palindrome-partitioning) |
 | [0812-rotate-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0812-rotate-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AbdusSamadAli/DSA-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AbdusSamadAli/DSA-/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -94,9 +95,14 @@ this is modified
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0040-combination-sum-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/AbdusSamadAli/DSA-/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/AbdusSamadAli/DSA-/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0090-subsets-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/AbdusSamadAli/DSA-/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
