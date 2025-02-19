@@ -14,6 +14,7 @@ this is modified
 | ------- |
 | [0040-combination-sum-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0040-combination-sum-ii) |
 | [0056-merge-intervals](https://github.com/AbdusSamadAli/DSA-/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/AbdusSamadAli/DSA-/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/AbdusSamadAli/DSA-/tree/master/0216-combination-sum-iii) |
@@ -58,6 +59,7 @@ this is modified
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/AbdusSamadAli/DSA-/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/AbdusSamadAli/DSA-/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
@@ -84,6 +86,7 @@ this is modified
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AbdusSamadAli/DSA-/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AbdusSamadAli/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 ## Backtracking
 |  |
