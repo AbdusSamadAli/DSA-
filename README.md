@@ -43,6 +43,7 @@ this is modified
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/AbdusSamadAli/DSA-/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/AbdusSamadAli/DSA-/tree/master/0131-palindrome-partitioning) |
+| [0402-remove-k-digits](https://github.com/AbdusSamadAli/DSA-/tree/master/0402-remove-k-digits) |
 | [0812-rotate-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0812-rotate-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AbdusSamadAli/DSA-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AbdusSamadAli/DSA-/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -85,6 +86,7 @@ this is modified
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/AbdusSamadAli/DSA-/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/AbdusSamadAli/DSA-/tree/master/0943-sum-of-subarray-minimums) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AbdusSamadAli/DSA-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -123,7 +125,12 @@ this is modified
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/AbdusSamadAli/DSA-/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/AbdusSamadAli/DSA-/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/AbdusSamadAli/DSA-/tree/master/2227-sum-of-subarray-ranges) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/AbdusSamadAli/DSA-/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
