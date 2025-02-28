@@ -7,6 +7,7 @@ this is modified
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/AbdusSamadAli/DSA-/tree/master/0029-divide-two-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AbdusSamadAli/DSA-/tree/master/1370-count-number-of-nice-subarrays) |
 | [2050-count-good-numbers](https://github.com/AbdusSamadAli/DSA-/tree/master/2050-count-good-numbers) |
 | [2383-add-two-integers](https://github.com/AbdusSamadAli/DSA-/tree/master/2383-add-two-integers) |
@@ -130,6 +131,7 @@ this is modified
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/AbdusSamadAli/DSA-/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0090-subsets-ii) |
 ## Dynamic Programming
 |  |
