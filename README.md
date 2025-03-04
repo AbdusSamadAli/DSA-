@@ -54,6 +54,7 @@ this is modified
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0072-edit-distance](https://github.com/AbdusSamadAli/DSA-/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/AbdusSamadAli/DSA-/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/AbdusSamadAli/DSA-/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/AbdusSamadAli/DSA-/tree/master/0402-remove-k-digits) |
@@ -143,6 +144,7 @@ this is modified
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/AbdusSamadAli/DSA-/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/AbdusSamadAli/DSA-/tree/master/0131-palindrome-partitioning) |
 | [0542-01-matrix](https://github.com/AbdusSamadAli/DSA-/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/AbdusSamadAli/DSA-/tree/master/0943-sum-of-subarray-minimums) |
