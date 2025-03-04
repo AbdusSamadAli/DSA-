@@ -147,6 +147,7 @@ this is modified
 |  |
 | ------- |
 | [0079-word-search](https://github.com/AbdusSamadAli/DSA-/tree/master/0079-word-search) |
+| [0547-number-of-provinces](https://github.com/AbdusSamadAli/DSA-/tree/master/0547-number-of-provinces) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -177,4 +178,16 @@ this is modified
 | [0966-binary-subarrays-with-sum](https://github.com/AbdusSamadAli/DSA-/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AbdusSamadAli/DSA-/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AbdusSamadAli/DSA-/tree/master/1370-count-number-of-nice-subarrays) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/AbdusSamadAli/DSA-/tree/master/0547-number-of-provinces) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/AbdusSamadAli/DSA-/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/AbdusSamadAli/DSA-/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
