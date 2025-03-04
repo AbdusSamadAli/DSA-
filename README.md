@@ -27,6 +27,7 @@ this is modified
 | [0455-assign-cookies](https://github.com/AbdusSamadAli/DSA-/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AbdusSamadAli/DSA-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/AbdusSamadAli/DSA-/tree/master/0542-01-matrix) |
 | [0735-asteroid-collision](https://github.com/AbdusSamadAli/DSA-/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/AbdusSamadAli/DSA-/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/AbdusSamadAli/DSA-/tree/master/0943-sum-of-subarray-minimums) |
@@ -102,6 +103,7 @@ this is modified
 | ------- |
 | [0079-word-search](https://github.com/AbdusSamadAli/DSA-/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/AbdusSamadAli/DSA-/tree/master/0542-01-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/2047-find-a-peak-element-ii) |
 ## Stack
 |  |
@@ -142,6 +144,7 @@ this is modified
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/AbdusSamadAli/DSA-/tree/master/0131-palindrome-partitioning) |
+| [0542-01-matrix](https://github.com/AbdusSamadAli/DSA-/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/AbdusSamadAli/DSA-/tree/master/0943-sum-of-subarray-minimums) |
 ## Depth-First Search
 |  |
@@ -181,6 +184,7 @@ this is modified
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/AbdusSamadAli/DSA-/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AbdusSamadAli/DSA-/tree/master/0547-number-of-provinces) |
 ## Union Find
 |  |
