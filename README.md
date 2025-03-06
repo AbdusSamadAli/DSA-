@@ -36,6 +36,7 @@ this is modified
 | [1046-max-consecutive-ones-iii](https://github.com/AbdusSamadAli/DSA-/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AbdusSamadAli/DSA-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AbdusSamadAli/DSA-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AbdusSamadAli/DSA-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AbdusSamadAli/DSA-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2047-find-a-peak-element-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/2047-find-a-peak-element-ii) |
 | [2227-sum-of-subarray-ranges](https://github.com/AbdusSamadAli/DSA-/tree/master/2227-sum-of-subarray-ranges) |
@@ -185,12 +186,14 @@ this is modified
 | [1046-max-consecutive-ones-iii](https://github.com/AbdusSamadAli/DSA-/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AbdusSamadAli/DSA-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AbdusSamadAli/DSA-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AbdusSamadAli/DSA-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/AbdusSamadAli/DSA-/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AbdusSamadAli/DSA-/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AbdusSamadAli/DSA-/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AbdusSamadAli/DSA-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Breadth-First Search
 |  |
 | ------- |
