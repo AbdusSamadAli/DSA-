@@ -21,6 +21,7 @@ this is modified
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AbdusSamadAli/DSA-/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0090-subsets-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbdusSamadAli/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0216-combination-sum-iii](https://github.com/AbdusSamadAli/DSA-/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
@@ -46,6 +47,7 @@ this is modified
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbdusSamadAli/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AbdusSamadAli/DSA-/tree/master/0349-intersection-of-two-arrays) |
@@ -142,6 +144,7 @@ this is modified
 | [0088-merge-sorted-array](https://github.com/AbdusSamadAli/DSA-/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/AbdusSamadAli/DSA-/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AbdusSamadAli/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbdusSamadAli/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AbdusSamadAli/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/AbdusSamadAli/DSA-/tree/master/0455-assign-cookies) |
