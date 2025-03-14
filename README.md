@@ -34,6 +34,7 @@ this is modified
 | [0503-next-greater-element-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AbdusSamadAli/DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/AbdusSamadAli/DSA-/tree/master/0542-01-matrix) |
+| [0724-find-pivot-index](https://github.com/AbdusSamadAli/DSA-/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/AbdusSamadAli/DSA-/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/AbdusSamadAli/DSA-/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/AbdusSamadAli/DSA-/tree/master/0943-sum-of-subarray-minimums) |
@@ -213,6 +214,7 @@ this is modified
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AbdusSamadAli/DSA-/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/AbdusSamadAli/DSA-/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/AbdusSamadAli/DSA-/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AbdusSamadAli/DSA-/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AbdusSamadAli/DSA-/tree/master/1370-count-number-of-nice-subarrays) |
