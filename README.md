@@ -184,6 +184,7 @@ this is modified
 | [0079-word-search](https://github.com/AbdusSamadAli/DSA-/tree/master/0079-word-search) |
 | [0547-number-of-provinces](https://github.com/AbdusSamadAli/DSA-/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AbdusSamadAli/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0904-leaf-similar-trees](https://github.com/AbdusSamadAli/DSA-/tree/master/0904-leaf-similar-trees) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -237,6 +238,7 @@ this is modified
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AbdusSamadAli/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0904-leaf-similar-trees](https://github.com/AbdusSamadAli/DSA-/tree/master/0904-leaf-similar-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -245,4 +247,5 @@ this is modified
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AbdusSamadAli/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0904-leaf-similar-trees](https://github.com/AbdusSamadAli/DSA-/tree/master/0904-leaf-similar-trees) |
 <!---LeetCode Topics End-->
