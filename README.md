@@ -47,6 +47,7 @@ this is modified
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AbdusSamadAli/DSA-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AbdusSamadAli/DSA-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/AbdusSamadAli/DSA-/tree/master/1646-kth-missing-positive-number) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2047-find-a-peak-element-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/2047-find-a-peak-element-ii) |
 | [2227-sum-of-subarray-ranges](https://github.com/AbdusSamadAli/DSA-/tree/master/2227-sum-of-subarray-ranges) |
 ## Binary Search
@@ -103,6 +104,7 @@ this is modified
 | [0966-binary-subarrays-with-sum](https://github.com/AbdusSamadAli/DSA-/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AbdusSamadAli/DSA-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AbdusSamadAli/DSA-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AbdusSamadAli/DSA-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Sorting
 |  |
@@ -115,6 +117,7 @@ this is modified
 | [0347-top-k-frequent-elements](https://github.com/AbdusSamadAli/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AbdusSamadAli/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/AbdusSamadAli/DSA-/tree/master/0455-assign-cookies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -162,6 +165,7 @@ this is modified
 | [0349-intersection-of-two-arrays](https://github.com/AbdusSamadAli/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/AbdusSamadAli/DSA-/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AbdusSamadAli/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Backtracking
 |  |
 | ------- |
