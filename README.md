@@ -34,6 +34,7 @@ this is modified
 | [0287-find-the-duplicate-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/AbdusSamadAli/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AbdusSamadAli/DSA-/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/AbdusSamadAli/DSA-/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AbdusSamadAli/DSA-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -123,6 +124,7 @@ this is modified
 | [0242-valid-anagram](https://github.com/AbdusSamadAli/DSA-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AbdusSamadAli/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AbdusSamadAli/DSA-/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/AbdusSamadAli/DSA-/tree/master/0455-assign-cookies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Counting
