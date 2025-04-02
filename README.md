@@ -9,6 +9,7 @@ this is modified
 | [0002-add-two-numbers](https://github.com/AbdusSamadAli/DSA-/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/AbdusSamadAli/DSA-/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/AbdusSamadAli/DSA-/tree/master/0043-multiply-strings) |
 | [0202-happy-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0202-happy-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AbdusSamadAli/DSA-/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AbdusSamadAli/DSA-/tree/master/1370-count-number-of-nice-subarrays) |
@@ -78,6 +79,7 @@ this is modified
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/AbdusSamadAli/DSA-/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/AbdusSamadAli/DSA-/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/AbdusSamadAli/DSA-/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/AbdusSamadAli/DSA-/tree/master/0091-decode-ways) |
@@ -233,6 +235,7 @@ this is modified
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/AbdusSamadAli/DSA-/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/AbdusSamadAli/DSA-/tree/master/0735-asteroid-collision) |
 ## Sliding Window
 |  |
