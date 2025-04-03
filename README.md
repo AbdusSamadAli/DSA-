@@ -96,6 +96,7 @@ this is modified
 | [1146-greatest-common-divisor-of-strings](https://github.com/AbdusSamadAli/DSA-/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AbdusSamadAli/DSA-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AbdusSamadAli/DSA-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1666-make-the-string-great](https://github.com/AbdusSamadAli/DSA-/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AbdusSamadAli/DSA-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AbdusSamadAli/DSA-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3447-clear-digits](https://github.com/AbdusSamadAli/DSA-/tree/master/3447-clear-digits) |
@@ -173,6 +174,7 @@ this is modified
 | [0503-next-greater-element-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/AbdusSamadAli/DSA-/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/AbdusSamadAli/DSA-/tree/master/0943-sum-of-subarray-minimums) |
+| [1666-make-the-string-great](https://github.com/AbdusSamadAli/DSA-/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AbdusSamadAli/DSA-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/AbdusSamadAli/DSA-/tree/master/2227-sum-of-subarray-ranges) |
 | [3447-clear-digits](https://github.com/AbdusSamadAli/DSA-/tree/master/3447-clear-digits) |
