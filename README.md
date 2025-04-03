@@ -98,6 +98,7 @@ this is modified
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AbdusSamadAli/DSA-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AbdusSamadAli/DSA-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AbdusSamadAli/DSA-/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3447-clear-digits](https://github.com/AbdusSamadAli/DSA-/tree/master/3447-clear-digits) |
 ## String Matching
 |  |
 | ------- |
@@ -174,6 +175,7 @@ this is modified
 | [0943-sum-of-subarray-minimums](https://github.com/AbdusSamadAli/DSA-/tree/master/0943-sum-of-subarray-minimums) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AbdusSamadAli/DSA-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/AbdusSamadAli/DSA-/tree/master/2227-sum-of-subarray-ranges) |
+| [3447-clear-digits](https://github.com/AbdusSamadAli/DSA-/tree/master/3447-clear-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -250,6 +252,7 @@ this is modified
 | [0043-multiply-strings](https://github.com/AbdusSamadAli/DSA-/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/AbdusSamadAli/DSA-/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/AbdusSamadAli/DSA-/tree/master/0735-asteroid-collision) |
+| [3447-clear-digits](https://github.com/AbdusSamadAli/DSA-/tree/master/3447-clear-digits) |
 ## Sliding Window
 |  |
 | ------- |
