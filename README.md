@@ -24,6 +24,7 @@ this is modified
 | [0055-jump-game](https://github.com/AbdusSamadAli/DSA-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AbdusSamadAli/DSA-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AbdusSamadAli/DSA-/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/AbdusSamadAli/DSA-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AbdusSamadAli/DSA-/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AbdusSamadAli/DSA-/tree/master/0088-merge-sorted-array) |
@@ -211,6 +212,7 @@ this is modified
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0040-combination-sum-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/AbdusSamadAli/DSA-/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/AbdusSamadAli/DSA-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AbdusSamadAli/DSA-/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/AbdusSamadAli/DSA-/tree/master/0131-palindrome-partitioning) |
@@ -219,6 +221,7 @@ this is modified
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AbdusSamadAli/DSA-/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/AbdusSamadAli/DSA-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/AbdusSamadAli/DSA-/tree/master/0389-find-the-difference) |
