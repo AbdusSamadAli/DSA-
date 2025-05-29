@@ -142,6 +142,7 @@ this is modified
 | [0056-merge-intervals](https://github.com/AbdusSamadAli/DSA-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AbdusSamadAli/DSA-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AbdusSamadAli/DSA-/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/AbdusSamadAli/DSA-/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AbdusSamadAli/DSA-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AbdusSamadAli/DSA-/tree/master/0347-top-k-frequent-elements) |
@@ -161,6 +162,7 @@ this is modified
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/AbdusSamadAli/DSA-/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AbdusSamadAli/DSA-/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
@@ -188,6 +190,7 @@ this is modified
 | ------- |
 | [0002-add-two-numbers](https://github.com/AbdusSamadAli/DSA-/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/AbdusSamadAli/DSA-/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/AbdusSamadAli/DSA-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AbdusSamadAli/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AbdusSamadAli/DSA-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AbdusSamadAli/DSA-/tree/master/0328-odd-even-linked-list) |
@@ -198,6 +201,7 @@ this is modified
 | [0075-sort-colors](https://github.com/AbdusSamadAli/DSA-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AbdusSamadAli/DSA-/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/AbdusSamadAli/DSA-/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/AbdusSamadAli/DSA-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AbdusSamadAli/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbdusSamadAli/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0202-happy-number) |
@@ -328,4 +332,8 @@ this is modified
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0387-first-unique-character-in-a-string) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/AbdusSamadAli/DSA-/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
