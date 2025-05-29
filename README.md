@@ -190,6 +190,7 @@ this is modified
 | [0143-reorder-list](https://github.com/AbdusSamadAli/DSA-/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AbdusSamadAli/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AbdusSamadAli/DSA-/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/AbdusSamadAli/DSA-/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
