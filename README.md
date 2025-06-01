@@ -23,6 +23,7 @@ this is modified
 | [0040-combination-sum-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/AbdusSamadAli/DSA-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AbdusSamadAli/DSA-/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/AbdusSamadAli/DSA-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AbdusSamadAli/DSA-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AbdusSamadAli/DSA-/tree/master/0079-word-search) |
@@ -168,6 +169,7 @@ this is modified
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/AbdusSamadAli/DSA-/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/AbdusSamadAli/DSA-/tree/master/0542-01-matrix) |
@@ -234,6 +236,7 @@ this is modified
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/AbdusSamadAli/DSA-/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/AbdusSamadAli/DSA-/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/AbdusSamadAli/DSA-/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/AbdusSamadAli/DSA-/tree/master/0131-palindrome-partitioning) |
