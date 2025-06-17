@@ -251,6 +251,7 @@ this is modified
 |  |
 | ------- |
 | [0079-word-search](https://github.com/AbdusSamadAli/DSA-/tree/master/0079-word-search) |
+| [0210-course-schedule-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/AbdusSamadAli/DSA-/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AbdusSamadAli/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-leaf-similar-trees](https://github.com/AbdusSamadAli/DSA-/tree/master/0904-leaf-similar-trees) |
@@ -299,6 +300,7 @@ this is modified
 ## Breadth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/AbdusSamadAli/DSA-/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AbdusSamadAli/DSA-/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AbdusSamadAli/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -309,6 +311,7 @@ this is modified
 ## Graph
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/AbdusSamadAli/DSA-/tree/master/0547-number-of-provinces) |
 ## Tree
 |  |
@@ -356,4 +359,8 @@ this is modified
 |  |
 | ------- |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/AbdusSamadAli/DSA-/tree/master/3843-partition-array-into-two-equal-product-subsets) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
