@@ -254,6 +254,7 @@ this is modified
 | [0210-course-schedule-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/AbdusSamadAli/DSA-/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AbdusSamadAli/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0820-find-eventual-safe-states](https://github.com/AbdusSamadAli/DSA-/tree/master/0820-find-eventual-safe-states) |
 | [0904-leaf-similar-trees](https://github.com/AbdusSamadAli/DSA-/tree/master/0904-leaf-similar-trees) |
 ## Monotonic Stack
 |  |
@@ -304,6 +305,7 @@ this is modified
 | [0542-01-matrix](https://github.com/AbdusSamadAli/DSA-/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AbdusSamadAli/DSA-/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AbdusSamadAli/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0820-find-eventual-safe-states](https://github.com/AbdusSamadAli/DSA-/tree/master/0820-find-eventual-safe-states) |
 ## Union Find
 |  |
 | ------- |
@@ -313,6 +315,7 @@ this is modified
 | ------- |
 | [0210-course-schedule-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/AbdusSamadAli/DSA-/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/AbdusSamadAli/DSA-/tree/master/0820-find-eventual-safe-states) |
 ## Tree
 |  |
 | ------- |
@@ -363,4 +366,5 @@ this is modified
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/AbdusSamadAli/DSA-/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
