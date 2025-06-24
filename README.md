@@ -65,6 +65,7 @@ this is modified
 | [1798-max-number-of-k-sum-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/AbdusSamadAli/DSA-/tree/master/1833-find-the-highest-altitude) |
 | [2047-find-a-peak-element-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/2047-find-a-peak-element-ii) |
+| [2159-two-out-of-three](https://github.com/AbdusSamadAli/DSA-/tree/master/2159-two-out-of-three) |
 | [2227-sum-of-subarray-ranges](https://github.com/AbdusSamadAli/DSA-/tree/master/2227-sum-of-subarray-ranges) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/AbdusSamadAli/DSA-/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Binary Search
@@ -143,6 +144,7 @@ this is modified
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AbdusSamadAli/DSA-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AbdusSamadAli/DSA-/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2159-two-out-of-three](https://github.com/AbdusSamadAli/DSA-/tree/master/2159-two-out-of-three) |
 ## Sorting
 |  |
 | ------- |
@@ -240,6 +242,7 @@ this is modified
 | [0090-subsets-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/AbdusSamadAli/DSA-/tree/master/0389-find-the-difference) |
+| [2159-two-out-of-three](https://github.com/AbdusSamadAli/DSA-/tree/master/2159-two-out-of-three) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/AbdusSamadAli/DSA-/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Dynamic Programming
 |  |
