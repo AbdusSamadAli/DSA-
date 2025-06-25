@@ -21,6 +21,7 @@ this is modified
 | ------- |
 | [0001-two-sum](https://github.com/AbdusSamadAli/DSA-/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AbdusSamadAli/DSA-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AbdusSamadAli/DSA-/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0063-unique-paths-ii) |
@@ -249,6 +250,7 @@ this is modified
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AbdusSamadAli/DSA-/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/AbdusSamadAli/DSA-/tree/master/0072-edit-distance) |
@@ -279,6 +281,7 @@ this is modified
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AbdusSamadAli/DSA-/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/AbdusSamadAli/DSA-/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/AbdusSamadAli/DSA-/tree/master/0455-assign-cookies) |
