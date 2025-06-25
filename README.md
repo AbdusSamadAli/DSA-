@@ -24,6 +24,7 @@ this is modified
 | [0045-jump-game-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AbdusSamadAli/DSA-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AbdusSamadAli/DSA-/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/AbdusSamadAli/DSA-/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/AbdusSamadAli/DSA-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AbdusSamadAli/DSA-/tree/master/0078-subsets) |
