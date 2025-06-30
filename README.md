@@ -104,6 +104,7 @@ this is modified
 | [0415-add-strings](https://github.com/AbdusSamadAli/DSA-/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0541-reverse-string-ii) |
 | [0678-valid-parenthesis-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0678-valid-parenthesis-string) |
+| [0680-valid-palindrome-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0812-rotate-string) |
 | [1044-find-common-characters](https://github.com/AbdusSamadAli/DSA-/tree/master/1044-find-common-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AbdusSamadAli/DSA-/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -228,6 +229,7 @@ this is modified
 | [0455-assign-cookies](https://github.com/AbdusSamadAli/DSA-/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0541-reverse-string-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AbdusSamadAli/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0680-valid-palindrome-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0680-valid-palindrome-ii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Backtracking
 |  |
@@ -289,6 +291,7 @@ this is modified
 | [0402-remove-k-digits](https://github.com/AbdusSamadAli/DSA-/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/AbdusSamadAli/DSA-/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0678-valid-parenthesis-string) |
+| [0680-valid-palindrome-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/AbdusSamadAli/DSA-/tree/master/0890-lemonade-change) |
 ## Simulation
 |  |
