@@ -10,6 +10,7 @@ this is modified
 | [0009-palindrome-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/AbdusSamadAli/DSA-/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/AbdusSamadAli/DSA-/tree/master/0043-multiply-strings) |
+| [0172-factorial-trailing-zeroes](https://github.com/AbdusSamadAli/DSA-/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0202-happy-number) |
 | [0415-add-strings](https://github.com/AbdusSamadAli/DSA-/tree/master/0415-add-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AbdusSamadAli/DSA-/tree/master/1146-greatest-common-divisor-of-strings) |
