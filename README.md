@@ -53,6 +53,7 @@ this is modified
 | [0724-find-pivot-index](https://github.com/AbdusSamadAli/DSA-/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/AbdusSamadAli/DSA-/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/AbdusSamadAli/DSA-/tree/master/0890-lemonade-change) |
+| [0940-fruit-into-baskets](https://github.com/AbdusSamadAli/DSA-/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/AbdusSamadAli/DSA-/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/AbdusSamadAli/DSA-/tree/master/0966-binary-subarrays-with-sum) |
 | [1044-find-common-characters](https://github.com/AbdusSamadAli/DSA-/tree/master/1044-find-common-characters) |
@@ -145,6 +146,7 @@ this is modified
 | [0389-find-the-difference](https://github.com/AbdusSamadAli/DSA-/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbdusSamadAli/DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AbdusSamadAli/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0940-fruit-into-baskets](https://github.com/AbdusSamadAli/DSA-/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AbdusSamadAli/DSA-/tree/master/0966-binary-subarrays-with-sum) |
 | [1044-find-common-characters](https://github.com/AbdusSamadAli/DSA-/tree/master/1044-find-common-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AbdusSamadAli/DSA-/tree/master/1370-count-number-of-nice-subarrays) |
@@ -308,6 +310,7 @@ this is modified
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AbdusSamadAli/DSA-/tree/master/0209-minimum-size-subarray-sum) |
+| [0940-fruit-into-baskets](https://github.com/AbdusSamadAli/DSA-/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AbdusSamadAli/DSA-/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AbdusSamadAli/DSA-/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AbdusSamadAli/DSA-/tree/master/1370-count-number-of-nice-subarrays) |
