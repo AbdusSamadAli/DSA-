@@ -72,6 +72,7 @@ this is modified
 | [2047-find-a-peak-element-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/2047-find-a-peak-element-ii) |
 | [2159-two-out-of-three](https://github.com/AbdusSamadAli/DSA-/tree/master/2159-two-out-of-three) |
 | [2227-sum-of-subarray-ranges](https://github.com/AbdusSamadAli/DSA-/tree/master/2227-sum-of-subarray-ranges) |
+| [3799-unique-3-digit-even-numbers](https://github.com/AbdusSamadAli/DSA-/tree/master/3799-unique-3-digit-even-numbers) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/AbdusSamadAli/DSA-/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Binary Search
 |  |
@@ -129,6 +130,7 @@ this is modified
 | [0002-add-two-numbers](https://github.com/AbdusSamadAli/DSA-/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/AbdusSamadAli/DSA-/tree/master/0143-reorder-list) |
 | [2050-count-good-numbers](https://github.com/AbdusSamadAli/DSA-/tree/master/2050-count-good-numbers) |
+| [3799-unique-3-digit-even-numbers](https://github.com/AbdusSamadAli/DSA-/tree/master/3799-unique-3-digit-even-numbers) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/AbdusSamadAli/DSA-/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Hash Table
 |  |
@@ -154,6 +156,7 @@ this is modified
 | [1798-max-number-of-k-sum-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AbdusSamadAli/DSA-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2159-two-out-of-three](https://github.com/AbdusSamadAli/DSA-/tree/master/2159-two-out-of-three) |
+| [3799-unique-3-digit-even-numbers](https://github.com/AbdusSamadAli/DSA-/tree/master/3799-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -395,6 +398,7 @@ this is modified
 ## Enumeration
 |  |
 | ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/AbdusSamadAli/DSA-/tree/master/3799-unique-3-digit-even-numbers) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/AbdusSamadAli/DSA-/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Topological Sort
 |  |
