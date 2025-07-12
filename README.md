@@ -13,6 +13,7 @@ this is modified
 | [0060-permutation-sequence](https://github.com/AbdusSamadAli/DSA-/tree/master/0060-permutation-sequence) |
 | [0172-factorial-trailing-zeroes](https://github.com/AbdusSamadAli/DSA-/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/AbdusSamadAli/DSA-/tree/master/0224-basic-calculator) |
 | [0415-add-strings](https://github.com/AbdusSamadAli/DSA-/tree/master/0415-add-strings) |
 | [0795-k-th-symbol-in-grammar](https://github.com/AbdusSamadAli/DSA-/tree/master/0795-k-th-symbol-in-grammar) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AbdusSamadAli/DSA-/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -103,6 +104,7 @@ this is modified
 | [0079-word-search](https://github.com/AbdusSamadAli/DSA-/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/AbdusSamadAli/DSA-/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/AbdusSamadAli/DSA-/tree/master/0131-palindrome-partitioning) |
+| [0224-basic-calculator](https://github.com/AbdusSamadAli/DSA-/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/AbdusSamadAli/DSA-/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AbdusSamadAli/DSA-/tree/master/0389-find-the-difference) |
@@ -132,6 +134,7 @@ this is modified
 | [0002-add-two-numbers](https://github.com/AbdusSamadAli/DSA-/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/AbdusSamadAli/DSA-/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/AbdusSamadAli/DSA-/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/AbdusSamadAli/DSA-/tree/master/0224-basic-calculator) |
 | [0795-k-th-symbol-in-grammar](https://github.com/AbdusSamadAli/DSA-/tree/master/0795-k-th-symbol-in-grammar) |
 | [2050-count-good-numbers](https://github.com/AbdusSamadAli/DSA-/tree/master/2050-count-good-numbers) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AbdusSamadAli/DSA-/tree/master/3799-unique-3-digit-even-numbers) |
@@ -204,6 +207,7 @@ this is modified
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/AbdusSamadAli/DSA-/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/AbdusSamadAli/DSA-/tree/master/0224-basic-calculator) |
 | [0402-remove-k-digits](https://github.com/AbdusSamadAli/DSA-/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0678-valid-parenthesis-string) |
