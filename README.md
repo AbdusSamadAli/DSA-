@@ -132,6 +132,7 @@ this is modified
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AbdusSamadAli/DSA-/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/0024-swap-nodes-in-pairs) |
 | [0060-permutation-sequence](https://github.com/AbdusSamadAli/DSA-/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/AbdusSamadAli/DSA-/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/AbdusSamadAli/DSA-/tree/master/0224-basic-calculator) |
@@ -222,6 +223,7 @@ this is modified
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AbdusSamadAli/DSA-/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/AbdusSamadAli/DSA-/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/AbdusSamadAli/DSA-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AbdusSamadAli/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
