@@ -13,6 +13,7 @@ this is modified
 | [0060-permutation-sequence](https://github.com/AbdusSamadAli/DSA-/tree/master/0060-permutation-sequence) |
 | [0172-factorial-trailing-zeroes](https://github.com/AbdusSamadAli/DSA-/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/AbdusSamadAli/DSA-/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/AbdusSamadAli/DSA-/tree/master/0224-basic-calculator) |
 | [0412-fizz-buzz](https://github.com/AbdusSamadAli/DSA-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AbdusSamadAli/DSA-/tree/master/0415-add-strings) |
@@ -38,6 +39,7 @@ this is modified
 | [0088-merge-sorted-array](https://github.com/AbdusSamadAli/DSA-/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbdusSamadAli/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/AbdusSamadAli/DSA-/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/AbdusSamadAli/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/AbdusSamadAli/DSA-/tree/master/0216-combination-sum-iii) |
 | [0228-summary-ranges](https://github.com/AbdusSamadAli/DSA-/tree/master/0228-summary-ranges) |
@@ -422,6 +424,7 @@ this is modified
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/AbdusSamadAli/DSA-/tree/master/0204-count-primes) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AbdusSamadAli/DSA-/tree/master/3799-unique-3-digit-even-numbers) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/AbdusSamadAli/DSA-/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Topological Sort
@@ -438,4 +441,8 @@ this is modified
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/AbdusSamadAli/DSA-/tree/master/0456-132-pattern) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AbdusSamadAli/DSA-/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
