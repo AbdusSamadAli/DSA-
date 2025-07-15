@@ -118,6 +118,7 @@ this is modified
 | [0812-rotate-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0812-rotate-string) |
 | [1044-find-common-characters](https://github.com/AbdusSamadAli/DSA-/tree/master/1044-find-common-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AbdusSamadAli/DSA-/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1205-defanging-an-ip-address](https://github.com/AbdusSamadAli/DSA-/tree/master/1205-defanging-an-ip-address) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AbdusSamadAli/DSA-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AbdusSamadAli/DSA-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1666-make-the-string-great](https://github.com/AbdusSamadAli/DSA-/tree/master/1666-make-the-string-great) |
