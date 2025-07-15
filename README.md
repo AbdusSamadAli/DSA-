@@ -20,6 +20,7 @@ this is modified
 | [0795-k-th-symbol-in-grammar](https://github.com/AbdusSamadAli/DSA-/tree/master/0795-k-th-symbol-in-grammar) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AbdusSamadAli/DSA-/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AbdusSamadAli/DSA-/tree/master/1370-count-number-of-nice-subarrays) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AbdusSamadAli/DSA-/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2050-count-good-numbers](https://github.com/AbdusSamadAli/DSA-/tree/master/2050-count-good-numbers) |
 | [2383-add-two-integers](https://github.com/AbdusSamadAli/DSA-/tree/master/2383-add-two-integers) |
 ## Array
@@ -281,6 +282,7 @@ this is modified
 | [0287-find-the-duplicate-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/AbdusSamadAli/DSA-/tree/master/0389-find-the-difference) |
 | [0795-k-th-symbol-in-grammar](https://github.com/AbdusSamadAli/DSA-/tree/master/0795-k-th-symbol-in-grammar) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AbdusSamadAli/DSA-/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2159-two-out-of-three](https://github.com/AbdusSamadAli/DSA-/tree/master/2159-two-out-of-three) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/AbdusSamadAli/DSA-/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Dynamic Programming
