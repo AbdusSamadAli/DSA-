@@ -132,6 +132,7 @@ this is modified
 | [1651-shuffle-string](https://github.com/AbdusSamadAli/DSA-/tree/master/1651-shuffle-string) |
 | [1666-make-the-string-great](https://github.com/AbdusSamadAli/DSA-/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AbdusSamadAli/DSA-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1797-goal-parser-interpretation](https://github.com/AbdusSamadAli/DSA-/tree/master/1797-goal-parser-interpretation) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AbdusSamadAli/DSA-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/AbdusSamadAli/DSA-/tree/master/1904-second-largest-digit-in-a-string) |
 | [2128-reverse-prefix-of-word](https://github.com/AbdusSamadAli/DSA-/tree/master/2128-reverse-prefix-of-word) |
