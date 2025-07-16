@@ -76,6 +76,7 @@ this is modified
 | [1646-kth-missing-positive-number](https://github.com/AbdusSamadAli/DSA-/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/AbdusSamadAli/DSA-/tree/master/1651-shuffle-string) |
 | [1753-path-with-minimum-effort](https://github.com/AbdusSamadAli/DSA-/tree/master/1753-path-with-minimum-effort) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AbdusSamadAli/DSA-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/AbdusSamadAli/DSA-/tree/master/1833-find-the-highest-altitude) |
 | [2047-find-a-peak-element-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/2047-find-a-peak-element-ii) |
@@ -132,6 +133,7 @@ this is modified
 | [1651-shuffle-string](https://github.com/AbdusSamadAli/DSA-/tree/master/1651-shuffle-string) |
 | [1666-make-the-string-great](https://github.com/AbdusSamadAli/DSA-/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AbdusSamadAli/DSA-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AbdusSamadAli/DSA-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/AbdusSamadAli/DSA-/tree/master/1797-goal-parser-interpretation) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AbdusSamadAli/DSA-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/AbdusSamadAli/DSA-/tree/master/1904-second-largest-digit-in-a-string) |
