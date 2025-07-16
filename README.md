@@ -15,6 +15,7 @@ this is modified
 | [0202-happy-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/AbdusSamadAli/DSA-/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/AbdusSamadAli/DSA-/tree/master/0224-basic-calculator) |
+| [0258-add-digits](https://github.com/AbdusSamadAli/DSA-/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/AbdusSamadAli/DSA-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AbdusSamadAli/DSA-/tree/master/0415-add-strings) |
 | [0795-k-th-symbol-in-grammar](https://github.com/AbdusSamadAli/DSA-/tree/master/0795-k-th-symbol-in-grammar) |
@@ -340,6 +341,7 @@ this is modified
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/AbdusSamadAli/DSA-/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/AbdusSamadAli/DSA-/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/AbdusSamadAli/DSA-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AbdusSamadAli/DSA-/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/AbdusSamadAli/DSA-/tree/master/0657-robot-return-to-origin) |
@@ -457,4 +459,5 @@ this is modified
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AbdusSamadAli/DSA-/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/AbdusSamadAli/DSA-/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
