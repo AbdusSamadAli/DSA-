@@ -22,6 +22,7 @@ this is modified
 | [1146-greatest-common-divisor-of-strings](https://github.com/AbdusSamadAli/DSA-/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AbdusSamadAli/DSA-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AbdusSamadAli/DSA-/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1635-number-of-good-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/1635-number-of-good-pairs) |
 | [2050-count-good-numbers](https://github.com/AbdusSamadAli/DSA-/tree/master/2050-count-good-numbers) |
 | [2383-add-two-integers](https://github.com/AbdusSamadAli/DSA-/tree/master/2383-add-two-integers) |
 ## Array
@@ -74,6 +75,7 @@ this is modified
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AbdusSamadAli/DSA-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AbdusSamadAli/DSA-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AbdusSamadAli/DSA-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1635-number-of-good-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/AbdusSamadAli/DSA-/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/AbdusSamadAli/DSA-/tree/master/1651-shuffle-string) |
 | [1753-path-with-minimum-effort](https://github.com/AbdusSamadAli/DSA-/tree/master/1753-path-with-minimum-effort) |
@@ -180,6 +182,7 @@ this is modified
 | [1044-find-common-characters](https://github.com/AbdusSamadAli/DSA-/tree/master/1044-find-common-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AbdusSamadAli/DSA-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AbdusSamadAli/DSA-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1635-number-of-good-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/1635-number-of-good-pairs) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AbdusSamadAli/DSA-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/AbdusSamadAli/DSA-/tree/master/1904-second-largest-digit-in-a-string) |
@@ -207,6 +210,7 @@ this is modified
 | [0229-majority-element-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AbdusSamadAli/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0387-first-unique-character-in-a-string) |
+| [1635-number-of-good-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/1635-number-of-good-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AbdusSamadAli/DSA-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Divide and Conquer
 |  |
