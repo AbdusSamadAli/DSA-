@@ -81,6 +81,7 @@ this is modified
 | [1635-number-of-good-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/AbdusSamadAli/DSA-/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/AbdusSamadAli/DSA-/tree/master/1651-shuffle-string) |
+| [1677-matrix-diagonal-sum](https://github.com/AbdusSamadAli/DSA-/tree/master/1677-matrix-diagonal-sum) |
 | [1753-path-with-minimum-effort](https://github.com/AbdusSamadAli/DSA-/tree/master/1753-path-with-minimum-effort) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AbdusSamadAli/DSA-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/AbdusSamadAli/DSA-/tree/master/1791-richest-customer-wealth) |
@@ -232,6 +233,7 @@ this is modified
 | [0240-search-a-2d-matrix-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/AbdusSamadAli/DSA-/tree/master/0542-01-matrix) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AbdusSamadAli/DSA-/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/AbdusSamadAli/DSA-/tree/master/1677-matrix-diagonal-sum) |
 | [1753-path-with-minimum-effort](https://github.com/AbdusSamadAli/DSA-/tree/master/1753-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/AbdusSamadAli/DSA-/tree/master/1791-richest-customer-wealth) |
 | [2047-find-a-peak-element-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/2047-find-a-peak-element-ii) |
