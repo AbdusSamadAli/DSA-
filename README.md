@@ -21,6 +21,7 @@ this is modified
 | [0795-k-th-symbol-in-grammar](https://github.com/AbdusSamadAli/DSA-/tree/master/0795-k-th-symbol-in-grammar) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AbdusSamadAli/DSA-/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AbdusSamadAli/DSA-/tree/master/1370-count-number-of-nice-subarrays) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/AbdusSamadAli/DSA-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AbdusSamadAli/DSA-/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/1635-number-of-good-pairs) |
 | [2050-count-good-numbers](https://github.com/AbdusSamadAli/DSA-/tree/master/2050-count-good-numbers) |
@@ -72,6 +73,7 @@ this is modified
 | [1171-shortest-path-in-binary-matrix](https://github.com/AbdusSamadAli/DSA-/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AbdusSamadAli/DSA-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AbdusSamadAli/DSA-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/AbdusSamadAli/DSA-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AbdusSamadAli/DSA-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AbdusSamadAli/DSA-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AbdusSamadAli/DSA-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
