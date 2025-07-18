@@ -72,6 +72,7 @@ this is modified
 | [1046-max-consecutive-ones-iii](https://github.com/AbdusSamadAli/DSA-/tree/master/1046-max-consecutive-ones-iii) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/AbdusSamadAli/DSA-/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AbdusSamadAli/DSA-/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1256-rank-transform-of-an-array](https://github.com/AbdusSamadAli/DSA-/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AbdusSamadAli/DSA-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AbdusSamadAli/DSA-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AbdusSamadAli/DSA-/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -186,6 +187,7 @@ this is modified
 | [0940-fruit-into-baskets](https://github.com/AbdusSamadAli/DSA-/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AbdusSamadAli/DSA-/tree/master/0966-binary-subarrays-with-sum) |
 | [1044-find-common-characters](https://github.com/AbdusSamadAli/DSA-/tree/master/1044-find-common-characters) |
+| [1256-rank-transform-of-an-array](https://github.com/AbdusSamadAli/DSA-/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AbdusSamadAli/DSA-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AbdusSamadAli/DSA-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbdusSamadAli/DSA-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -211,6 +213,7 @@ this is modified
 | [0414-third-maximum-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/AbdusSamadAli/DSA-/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/AbdusSamadAli/DSA-/tree/master/1019-squares-of-a-sorted-array) |
+| [1256-rank-transform-of-an-array](https://github.com/AbdusSamadAli/DSA-/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbdusSamadAli/DSA-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Counting
