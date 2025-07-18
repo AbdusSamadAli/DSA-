@@ -26,6 +26,7 @@ this is modified
 | [1635-number-of-good-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/1635-number-of-good-pairs) |
 | [2050-count-good-numbers](https://github.com/AbdusSamadAli/DSA-/tree/master/2050-count-good-numbers) |
 | [2383-add-two-integers](https://github.com/AbdusSamadAli/DSA-/tree/master/2383-add-two-integers) |
+| [2571-find-the-pivot-integer](https://github.com/AbdusSamadAli/DSA-/tree/master/2571-find-the-pivot-integer) |
 ## Array
 |  |
 | ------- |
@@ -395,6 +396,7 @@ this is modified
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AbdusSamadAli/DSA-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1833-find-the-highest-altitude](https://github.com/AbdusSamadAli/DSA-/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/AbdusSamadAli/DSA-/tree/master/2102-find-the-middle-index-in-array) |
+| [2571-find-the-pivot-integer](https://github.com/AbdusSamadAli/DSA-/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/AbdusSamadAli/DSA-/tree/master/2714-left-and-right-sum-differences) |
 ## Breadth-First Search
 |  |
