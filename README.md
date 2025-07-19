@@ -518,4 +518,8 @@ this is modified
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/AbdusSamadAli/DSA-/tree/master/0278-first-bad-version) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/AbdusSamadAli/DSA-/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
