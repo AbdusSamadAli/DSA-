@@ -145,6 +145,7 @@ this is modified
 | [0812-rotate-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0812-rotate-string) |
 | [1044-find-common-characters](https://github.com/AbdusSamadAli/DSA-/tree/master/1044-find-common-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AbdusSamadAli/DSA-/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/AbdusSamadAli/DSA-/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1205-defanging-an-ip-address](https://github.com/AbdusSamadAli/DSA-/tree/master/1205-defanging-an-ip-address) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AbdusSamadAli/DSA-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AbdusSamadAli/DSA-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -263,6 +264,7 @@ this is modified
 | [0735-asteroid-collision](https://github.com/AbdusSamadAli/DSA-/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/AbdusSamadAli/DSA-/tree/master/0943-sum-of-subarray-minimums) |
 | [1072-next-greater-node-in-linked-list](https://github.com/AbdusSamadAli/DSA-/tree/master/1072-next-greater-node-in-linked-list) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/AbdusSamadAli/DSA-/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1666-make-the-string-great](https://github.com/AbdusSamadAli/DSA-/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AbdusSamadAli/DSA-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/AbdusSamadAli/DSA-/tree/master/2128-reverse-prefix-of-word) |
@@ -357,6 +359,7 @@ this is modified
 | [0503-next-greater-element-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/AbdusSamadAli/DSA-/tree/master/0943-sum-of-subarray-minimums) |
 | [1072-next-greater-node-in-linked-list](https://github.com/AbdusSamadAli/DSA-/tree/master/1072-next-greater-node-in-linked-list) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/AbdusSamadAli/DSA-/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [2227-sum-of-subarray-ranges](https://github.com/AbdusSamadAli/DSA-/tree/master/2227-sum-of-subarray-ranges) |
 ## Greedy
 |  |
@@ -370,6 +373,7 @@ this is modified
 | [0680-valid-palindrome-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/AbdusSamadAli/DSA-/tree/master/0890-lemonade-change) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/AbdusSamadAli/DSA-/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/AbdusSamadAli/DSA-/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Simulation
 |  |
 | ------- |
