@@ -46,6 +46,7 @@ this is modified
 | [0088-merge-sorted-array](https://github.com/AbdusSamadAli/DSA-/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbdusSamadAli/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/AbdusSamadAli/DSA-/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/AbdusSamadAli/DSA-/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/AbdusSamadAli/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/AbdusSamadAli/DSA-/tree/master/0216-combination-sum-iii) |
@@ -195,6 +196,7 @@ this is modified
 | [0001-two-sum](https://github.com/AbdusSamadAli/DSA-/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AbdusSamadAli/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/AbdusSamadAli/DSA-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AbdusSamadAli/DSA-/tree/master/0242-valid-anagram) |
@@ -227,6 +229,7 @@ this is modified
 | [0075-sort-colors](https://github.com/AbdusSamadAli/DSA-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AbdusSamadAli/DSA-/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/AbdusSamadAli/DSA-/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/AbdusSamadAli/DSA-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AbdusSamadAli/DSA-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AbdusSamadAli/DSA-/tree/master/0347-top-k-frequent-elements) |
@@ -242,6 +245,7 @@ this is modified
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AbdusSamadAli/DSA-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AbdusSamadAli/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0387-first-unique-character-in-a-string) |
@@ -251,6 +255,7 @@ this is modified
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/AbdusSamadAli/DSA-/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/AbdusSamadAli/DSA-/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AbdusSamadAli/DSA-/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
