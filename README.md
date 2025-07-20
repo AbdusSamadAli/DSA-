@@ -10,6 +10,7 @@ this is modified
 | [0009-palindrome-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/AbdusSamadAli/DSA-/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/AbdusSamadAli/DSA-/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/AbdusSamadAli/DSA-/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/AbdusSamadAli/DSA-/tree/master/0060-permutation-sequence) |
 | [0172-factorial-trailing-zeroes](https://github.com/AbdusSamadAli/DSA-/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0202-happy-number) |
@@ -180,6 +181,7 @@ this is modified
 | ------- |
 | [0002-add-two-numbers](https://github.com/AbdusSamadAli/DSA-/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/AbdusSamadAli/DSA-/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/AbdusSamadAli/DSA-/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/AbdusSamadAli/DSA-/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/AbdusSamadAli/DSA-/tree/master/0224-basic-calculator) |
