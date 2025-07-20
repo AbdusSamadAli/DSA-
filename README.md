@@ -145,6 +145,7 @@ this is modified
 | [0412-fizz-buzz](https://github.com/AbdusSamadAli/DSA-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AbdusSamadAli/DSA-/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/AbdusSamadAli/DSA-/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0680-valid-palindrome-ii) |
@@ -198,6 +199,7 @@ this is modified
 | [0387-first-unique-character-in-a-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AbdusSamadAli/DSA-/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbdusSamadAli/DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0567-permutation-in-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AbdusSamadAli/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0835-linked-list-components](https://github.com/AbdusSamadAli/DSA-/tree/master/0835-linked-list-components) |
 | [0940-fruit-into-baskets](https://github.com/AbdusSamadAli/DSA-/tree/master/0940-fruit-into-baskets) |
@@ -309,6 +311,7 @@ this is modified
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/AbdusSamadAli/DSA-/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AbdusSamadAli/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0680-valid-palindrome-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/AbdusSamadAli/DSA-/tree/master/1019-squares-of-a-sorted-array) |
@@ -404,6 +407,7 @@ this is modified
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AbdusSamadAli/DSA-/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/AbdusSamadAli/DSA-/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AbdusSamadAli/DSA-/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AbdusSamadAli/DSA-/tree/master/1046-max-consecutive-ones-iii) |
