@@ -128,6 +128,7 @@ this is modified
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/AbdusSamadAli/DSA-/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/AbdusSamadAli/DSA-/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/AbdusSamadAli/DSA-/tree/master/0072-edit-distance) |
@@ -322,6 +323,7 @@ this is modified
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/AbdusSamadAli/DSA-/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/AbdusSamadAli/DSA-/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/AbdusSamadAli/DSA-/tree/master/0078-subsets) |
@@ -345,6 +347,7 @@ this is modified
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AbdusSamadAli/DSA-/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AbdusSamadAli/DSA-/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0063-unique-paths-ii) |
