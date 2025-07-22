@@ -135,6 +135,7 @@ this is modified
 | [0022-generate-parentheses](https://github.com/AbdusSamadAli/DSA-/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/AbdusSamadAli/DSA-/tree/master/0043-multiply-strings) |
+| [0071-simplify-path](https://github.com/AbdusSamadAli/DSA-/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/AbdusSamadAli/DSA-/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/AbdusSamadAli/DSA-/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/AbdusSamadAli/DSA-/tree/master/0091-decode-ways) |
@@ -275,6 +276,7 @@ this is modified
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/AbdusSamadAli/DSA-/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/AbdusSamadAli/DSA-/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/AbdusSamadAli/DSA-/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/AbdusSamadAli/DSA-/tree/master/0316-remove-duplicate-letters) |
