@@ -73,6 +73,7 @@ this is modified
 | [0907-koko-eating-bananas](https://github.com/AbdusSamadAli/DSA-/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/AbdusSamadAli/DSA-/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/AbdusSamadAli/DSA-/tree/master/0943-sum-of-subarray-minimums) |
+| [0954-maximum-sum-circular-subarray](https://github.com/AbdusSamadAli/DSA-/tree/master/0954-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/AbdusSamadAli/DSA-/tree/master/0966-binary-subarrays-with-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/AbdusSamadAli/DSA-/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/AbdusSamadAli/DSA-/tree/master/1044-find-common-characters) |
@@ -261,6 +262,7 @@ this is modified
 | [0169-majority-element](https://github.com/AbdusSamadAli/DSA-/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AbdusSamadAli/DSA-/tree/master/0347-top-k-frequent-elements) |
+| [0954-maximum-sum-circular-subarray](https://github.com/AbdusSamadAli/DSA-/tree/master/0954-maximum-sum-circular-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -372,6 +374,7 @@ this is modified
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AbdusSamadAli/DSA-/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/AbdusSamadAli/DSA-/tree/master/0943-sum-of-subarray-minimums) |
+| [0954-maximum-sum-circular-subarray](https://github.com/AbdusSamadAli/DSA-/tree/master/0954-maximum-sum-circular-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/AbdusSamadAli/DSA-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Depth-First Search
 |  |
@@ -501,6 +504,7 @@ this is modified
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0387-first-unique-character-in-a-string) |
+| [0954-maximum-sum-circular-subarray](https://github.com/AbdusSamadAli/DSA-/tree/master/0954-maximum-sum-circular-subarray) |
 ## Merge Sort
 |  |
 | ------- |
@@ -551,4 +555,8 @@ this is modified
 | ------- |
 | [0175-combine-two-tables](https://github.com/AbdusSamadAli/DSA-/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/AbdusSamadAli/DSA-/tree/master/0181-employees-earning-more-than-their-managers) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/AbdusSamadAli/DSA-/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
