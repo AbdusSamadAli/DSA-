@@ -106,6 +106,7 @@ this is modified
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AbdusSamadAli/DSA-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2159-two-out-of-three](https://github.com/AbdusSamadAli/DSA-/tree/master/2159-two-out-of-three) |
 | [2227-sum-of-subarray-ranges](https://github.com/AbdusSamadAli/DSA-/tree/master/2227-sum-of-subarray-ranges) |
+| [2428-equal-row-and-column-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/2428-equal-row-and-column-pairs) |
 | [2714-left-and-right-sum-differences](https://github.com/AbdusSamadAli/DSA-/tree/master/2714-left-and-right-sum-differences) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AbdusSamadAli/DSA-/tree/master/3799-unique-3-digit-even-numbers) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/AbdusSamadAli/DSA-/tree/master/3843-partition-array-into-two-equal-product-subsets) |
@@ -227,6 +228,7 @@ this is modified
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AbdusSamadAli/DSA-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/AbdusSamadAli/DSA-/tree/master/1904-second-largest-digit-in-a-string) |
 | [2159-two-out-of-three](https://github.com/AbdusSamadAli/DSA-/tree/master/2159-two-out-of-three) |
+| [2428-equal-row-and-column-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/2428-equal-row-and-column-pairs) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AbdusSamadAli/DSA-/tree/master/3799-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
@@ -279,6 +281,7 @@ this is modified
 | [1753-path-with-minimum-effort](https://github.com/AbdusSamadAli/DSA-/tree/master/1753-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/AbdusSamadAli/DSA-/tree/master/1791-richest-customer-wealth) |
 | [2047-find-a-peak-element-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/2047-find-a-peak-element-ii) |
+| [2428-equal-row-and-column-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/2428-equal-row-and-column-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -426,6 +429,7 @@ this is modified
 | [0657-robot-return-to-origin](https://github.com/AbdusSamadAli/DSA-/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/AbdusSamadAli/DSA-/tree/master/0735-asteroid-collision) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AbdusSamadAli/DSA-/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2428-equal-row-and-column-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/2428-equal-row-and-column-pairs) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AbdusSamadAli/DSA-/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/AbdusSamadAli/DSA-/tree/master/3447-clear-digits) |
 ## Sliding Window
