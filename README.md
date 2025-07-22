@@ -33,6 +33,7 @@ this is modified
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AbdusSamadAli/DSA-/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/AbdusSamadAli/DSA-/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AbdusSamadAli/DSA-/tree/master/0055-jump-game) |
@@ -198,6 +199,7 @@ this is modified
 | ------- |
 | [0001-two-sum](https://github.com/AbdusSamadAli/DSA-/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/AbdusSamadAli/DSA-/tree/master/0036-valid-sudoku) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AbdusSamadAli/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/AbdusSamadAli/DSA-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0202-happy-number) |
@@ -266,6 +268,7 @@ this is modified
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AbdusSamadAli/DSA-/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/AbdusSamadAli/DSA-/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
