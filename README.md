@@ -12,6 +12,7 @@ this is modified
 | [0043-multiply-strings](https://github.com/AbdusSamadAli/DSA-/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/AbdusSamadAli/DSA-/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/AbdusSamadAli/DSA-/tree/master/0060-permutation-sequence) |
+| [0070-climbing-stairs](https://github.com/AbdusSamadAli/DSA-/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/AbdusSamadAli/DSA-/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/AbdusSamadAli/DSA-/tree/master/0204-count-primes) |
@@ -384,6 +385,7 @@ this is modified
 | [0045-jump-game-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AbdusSamadAli/DSA-/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/AbdusSamadAli/DSA-/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/AbdusSamadAli/DSA-/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/AbdusSamadAli/DSA-/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/AbdusSamadAli/DSA-/tree/master/0131-palindrome-partitioning) |
@@ -586,4 +588,8 @@ this is modified
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/AbdusSamadAli/DSA-/tree/master/0954-maximum-sum-circular-subarray) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AbdusSamadAli/DSA-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
