@@ -55,6 +55,7 @@ this is modified
 | [0229-majority-element-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0287-find-the-duplicate-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/AbdusSamadAli/DSA-/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/AbdusSamadAli/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AbdusSamadAli/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -416,6 +417,7 @@ this is modified
 | [0045-jump-game-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AbdusSamadAli/DSA-/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/AbdusSamadAli/DSA-/tree/master/0316-remove-duplicate-letters) |
+| [0334-increasing-triplet-subsequence](https://github.com/AbdusSamadAli/DSA-/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/AbdusSamadAli/DSA-/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/AbdusSamadAli/DSA-/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0678-valid-parenthesis-string) |
