@@ -172,6 +172,7 @@ this is modified
 | [1651-shuffle-string](https://github.com/AbdusSamadAli/DSA-/tree/master/1651-shuffle-string) |
 | [1666-make-the-string-great](https://github.com/AbdusSamadAli/DSA-/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AbdusSamadAli/DSA-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1777-determine-if-two-strings-are-close](https://github.com/AbdusSamadAli/DSA-/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AbdusSamadAli/DSA-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/AbdusSamadAli/DSA-/tree/master/1797-goal-parser-interpretation) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AbdusSamadAli/DSA-/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -227,6 +228,7 @@ this is modified
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AbdusSamadAli/DSA-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbdusSamadAli/DSA-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/1635-number-of-good-pairs) |
+| [1777-determine-if-two-strings-are-close](https://github.com/AbdusSamadAli/DSA-/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AbdusSamadAli/DSA-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/AbdusSamadAli/DSA-/tree/master/1904-second-largest-digit-in-a-string) |
@@ -252,6 +254,7 @@ this is modified
 | [1019-squares-of-a-sorted-array](https://github.com/AbdusSamadAli/DSA-/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/AbdusSamadAli/DSA-/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbdusSamadAli/DSA-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1777-determine-if-two-strings-are-close](https://github.com/AbdusSamadAli/DSA-/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Counting
 |  |
@@ -261,6 +264,7 @@ this is modified
 | [0347-top-k-frequent-elements](https://github.com/AbdusSamadAli/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/1635-number-of-good-pairs) |
+| [1777-determine-if-two-strings-are-close](https://github.com/AbdusSamadAli/DSA-/tree/master/1777-determine-if-two-strings-are-close) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AbdusSamadAli/DSA-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Divide and Conquer
 |  |
