@@ -402,6 +402,7 @@ this is modified
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AbdusSamadAli/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0820-find-eventual-safe-states](https://github.com/AbdusSamadAli/DSA-/tree/master/0820-find-eventual-safe-states) |
 | [0904-leaf-similar-trees](https://github.com/AbdusSamadAli/DSA-/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/AbdusSamadAli/DSA-/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/AbdusSamadAli/DSA-/tree/master/1753-path-with-minimum-effort) |
 ## Monotonic Stack
 |  |
@@ -478,6 +479,7 @@ this is modified
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AbdusSamadAli/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0820-find-eventual-safe-states](https://github.com/AbdusSamadAli/DSA-/tree/master/0820-find-eventual-safe-states) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AbdusSamadAli/DSA-/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/AbdusSamadAli/DSA-/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/AbdusSamadAli/DSA-/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
@@ -497,6 +499,7 @@ this is modified
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AbdusSamadAli/DSA-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AbdusSamadAli/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-leaf-similar-trees](https://github.com/AbdusSamadAli/DSA-/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/AbdusSamadAli/DSA-/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -508,6 +511,7 @@ this is modified
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AbdusSamadAli/DSA-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AbdusSamadAli/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-leaf-similar-trees](https://github.com/AbdusSamadAli/DSA-/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/AbdusSamadAli/DSA-/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
