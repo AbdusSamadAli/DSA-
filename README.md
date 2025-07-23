@@ -177,6 +177,7 @@ this is modified
 | [1904-second-largest-digit-in-a-string](https://github.com/AbdusSamadAli/DSA-/tree/master/1904-second-largest-digit-in-a-string) |
 | [2128-reverse-prefix-of-word](https://github.com/AbdusSamadAli/DSA-/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AbdusSamadAli/DSA-/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2470-removing-stars-from-a-string](https://github.com/AbdusSamadAli/DSA-/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AbdusSamadAli/DSA-/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/AbdusSamadAli/DSA-/tree/master/3447-clear-digits) |
 ## String Matching
@@ -303,6 +304,7 @@ this is modified
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AbdusSamadAli/DSA-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/AbdusSamadAli/DSA-/tree/master/2128-reverse-prefix-of-word) |
 | [2227-sum-of-subarray-ranges](https://github.com/AbdusSamadAli/DSA-/tree/master/2227-sum-of-subarray-ranges) |
+| [2470-removing-stars-from-a-string](https://github.com/AbdusSamadAli/DSA-/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AbdusSamadAli/DSA-/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/AbdusSamadAli/DSA-/tree/master/3447-clear-digits) |
 ## Linked List
@@ -432,6 +434,7 @@ this is modified
 | [0735-asteroid-collision](https://github.com/AbdusSamadAli/DSA-/tree/master/0735-asteroid-collision) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AbdusSamadAli/DSA-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2428-equal-row-and-column-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/AbdusSamadAli/DSA-/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AbdusSamadAli/DSA-/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/AbdusSamadAli/DSA-/tree/master/3447-clear-digits) |
 ## Sliding Window
