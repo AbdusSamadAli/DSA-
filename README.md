@@ -64,6 +64,7 @@ this is modified
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbdusSamadAli/DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/AbdusSamadAli/DSA-/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/AbdusSamadAli/DSA-/tree/master/0456-132-pattern) |
+| [0457-circular-array-loop](https://github.com/AbdusSamadAli/DSA-/tree/master/0457-circular-array-loop) |
 | [0503-next-greater-element-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AbdusSamadAli/DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/AbdusSamadAli/DSA-/tree/master/0542-01-matrix) |
@@ -219,6 +220,7 @@ this is modified
 | [0387-first-unique-character-in-a-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AbdusSamadAli/DSA-/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbdusSamadAli/DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0457-circular-array-loop](https://github.com/AbdusSamadAli/DSA-/tree/master/0457-circular-array-loop) |
 | [0567-permutation-in-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AbdusSamadAli/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0835-linked-list-components](https://github.com/AbdusSamadAli/DSA-/tree/master/0835-linked-list-components) |
@@ -345,6 +347,7 @@ this is modified
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/AbdusSamadAli/DSA-/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/AbdusSamadAli/DSA-/tree/master/0455-assign-cookies) |
+| [0457-circular-array-loop](https://github.com/AbdusSamadAli/DSA-/tree/master/0457-circular-array-loop) |
 | [0541-reverse-string-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AbdusSamadAli/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
