@@ -30,6 +30,7 @@ this is modified
 | [2050-count-good-numbers](https://github.com/AbdusSamadAli/DSA-/tree/master/2050-count-good-numbers) |
 | [2383-add-two-integers](https://github.com/AbdusSamadAli/DSA-/tree/master/2383-add-two-integers) |
 | [2571-find-the-pivot-integer](https://github.com/AbdusSamadAli/DSA-/tree/master/2571-find-the-pivot-integer) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/AbdusSamadAli/DSA-/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Array
 |  |
 | ------- |
@@ -112,6 +113,7 @@ this is modified
 | [2227-sum-of-subarray-ranges](https://github.com/AbdusSamadAli/DSA-/tree/master/2227-sum-of-subarray-ranges) |
 | [2428-equal-row-and-column-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/2428-equal-row-and-column-pairs) |
 | [2714-left-and-right-sum-differences](https://github.com/AbdusSamadAli/DSA-/tree/master/2714-left-and-right-sum-differences) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/AbdusSamadAli/DSA-/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AbdusSamadAli/DSA-/tree/master/3799-unique-3-digit-even-numbers) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/AbdusSamadAli/DSA-/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Binary Search
@@ -464,6 +466,7 @@ this is modified
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AbdusSamadAli/DSA-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AbdusSamadAli/DSA-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AbdusSamadAli/DSA-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/AbdusSamadAli/DSA-/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -553,6 +556,7 @@ this is modified
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AbdusSamadAli/DSA-/tree/master/0204-count-primes) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/AbdusSamadAli/DSA-/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AbdusSamadAli/DSA-/tree/master/3799-unique-3-digit-even-numbers) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/AbdusSamadAli/DSA-/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Topological Sort
@@ -574,6 +578,7 @@ this is modified
 | ------- |
 | [0204-count-primes](https://github.com/AbdusSamadAli/DSA-/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/AbdusSamadAli/DSA-/tree/master/0258-add-digits) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/AbdusSamadAli/DSA-/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Counting Sort
 |  |
 | ------- |
