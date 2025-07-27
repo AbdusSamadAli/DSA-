@@ -6,9 +6,8 @@ public:
         for(int i=0;i<n;i++){
             char ch = chars[i];
             int count = 0;
-            while(i<n && chars[i] == ch){
-                count++;
-                i++;
+            while(i<n && ch == chars[i]){
+                count++; i++;
             }
             if(count == 1) chars[index++] = ch;
             else{
@@ -18,7 +17,7 @@ public:
             }
             i--;
         }
-        chars.resize(index);
+        
         return index;
     }
 };
