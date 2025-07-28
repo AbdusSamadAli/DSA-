@@ -142,6 +142,7 @@ this is modified
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/AbdusSamadAli/DSA-/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/AbdusSamadAli/DSA-/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
