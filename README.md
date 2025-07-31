@@ -157,6 +157,7 @@ this is modified
 | [0093-restore-ip-addresses](https://github.com/AbdusSamadAli/DSA-/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/AbdusSamadAli/DSA-/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/AbdusSamadAli/DSA-/tree/master/0165-compare-version-numbers) |
+| [0214-shortest-palindrome](https://github.com/AbdusSamadAli/DSA-/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/AbdusSamadAli/DSA-/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/AbdusSamadAli/DSA-/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/AbdusSamadAli/DSA-/tree/master/0316-remove-duplicate-letters) |
@@ -200,6 +201,7 @@ this is modified
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/AbdusSamadAli/DSA-/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/AbdusSamadAli/DSA-/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0812-rotate-string) |
 ## Recursion
@@ -616,4 +618,12 @@ this is modified
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AbdusSamadAli/DSA-/tree/master/0070-climbing-stairs) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/AbdusSamadAli/DSA-/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/AbdusSamadAli/DSA-/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
