@@ -47,6 +47,7 @@ this is modified
 | [0078-subsets](https://github.com/AbdusSamadAli/DSA-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AbdusSamadAli/DSA-/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/AbdusSamadAli/DSA-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/AbdusSamadAli/DSA-/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbdusSamadAli/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -313,6 +314,7 @@ this is modified
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/AbdusSamadAli/DSA-/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/AbdusSamadAli/DSA-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/AbdusSamadAli/DSA-/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/AbdusSamadAli/DSA-/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/AbdusSamadAli/DSA-/tree/master/0316-remove-duplicate-letters) |
@@ -432,6 +434,7 @@ this is modified
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AbdusSamadAli/DSA-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/AbdusSamadAli/DSA-/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/AbdusSamadAli/DSA-/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/AbdusSamadAli/DSA-/tree/master/0456-132-pattern) |
