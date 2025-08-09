@@ -36,6 +36,7 @@ this is modified
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AbdusSamadAli/DSA-/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/AbdusSamadAli/DSA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0036-valid-sudoku](https://github.com/AbdusSamadAli/DSA-/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0045-jump-game-ii) |
@@ -123,6 +124,7 @@ this is modified
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AbdusSamadAli/DSA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbdusSamadAli/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AbdusSamadAli/DSA-/tree/master/0209-minimum-size-subarray-sum) |
@@ -290,6 +292,7 @@ this is modified
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AbdusSamadAli/DSA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AbdusSamadAli/DSA-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/AbdusSamadAli/DSA-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/AbdusSamadAli/DSA-/tree/master/0169-majority-element) |
