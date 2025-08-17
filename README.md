@@ -37,6 +37,7 @@ this is modified
 | ------- |
 | [0001-two-sum](https://github.com/AbdusSamadAli/DSA-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/AbdusSamadAli/DSA-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0018-4sum](https://github.com/AbdusSamadAli/DSA-/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/AbdusSamadAli/DSA-/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0045-jump-game-ii) |
@@ -261,6 +262,7 @@ this is modified
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/AbdusSamadAli/DSA-/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/AbdusSamadAli/DSA-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AbdusSamadAli/DSA-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AbdusSamadAli/DSA-/tree/master/0088-merge-sorted-array) |
@@ -355,6 +357,7 @@ this is modified
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/AbdusSamadAli/DSA-/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/AbdusSamadAli/DSA-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AbdusSamadAli/DSA-/tree/master/0088-merge-sorted-array) |
