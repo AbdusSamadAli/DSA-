@@ -196,6 +196,7 @@ this is modified
 | [1777-determine-if-two-strings-are-close](https://github.com/AbdusSamadAli/DSA-/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AbdusSamadAli/DSA-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/AbdusSamadAli/DSA-/tree/master/1797-goal-parser-interpretation) |
+| [1873-longest-nice-substring](https://github.com/AbdusSamadAli/DSA-/tree/master/1873-longest-nice-substring) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AbdusSamadAli/DSA-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/AbdusSamadAli/DSA-/tree/master/1904-second-largest-digit-in-a-string) |
 | [2128-reverse-prefix-of-word](https://github.com/AbdusSamadAli/DSA-/tree/master/2128-reverse-prefix-of-word) |
@@ -255,6 +256,7 @@ this is modified
 | [1635-number-of-good-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AbdusSamadAli/DSA-/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1873-longest-nice-substring](https://github.com/AbdusSamadAli/DSA-/tree/master/1873-longest-nice-substring) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AbdusSamadAli/DSA-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/AbdusSamadAli/DSA-/tree/master/1904-second-largest-digit-in-a-string) |
 | [2159-two-out-of-three](https://github.com/AbdusSamadAli/DSA-/tree/master/2159-two-out-of-three) |
@@ -303,6 +305,7 @@ this is modified
 | [0240-search-a-2d-matrix-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AbdusSamadAli/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0954-maximum-sum-circular-subarray](https://github.com/AbdusSamadAli/DSA-/tree/master/0954-maximum-sum-circular-subarray) |
+| [1873-longest-nice-substring](https://github.com/AbdusSamadAli/DSA-/tree/master/1873-longest-nice-substring) |
 ## Matrix
 |  |
 | ------- |
@@ -409,6 +412,7 @@ this is modified
 | [0795-k-th-symbol-in-grammar](https://github.com/AbdusSamadAli/DSA-/tree/master/0795-k-th-symbol-in-grammar) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AbdusSamadAli/DSA-/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/AbdusSamadAli/DSA-/tree/master/1610-xor-operation-in-an-array) |
+| [1873-longest-nice-substring](https://github.com/AbdusSamadAli/DSA-/tree/master/1873-longest-nice-substring) |
 | [2159-two-out-of-three](https://github.com/AbdusSamadAli/DSA-/tree/master/2159-two-out-of-three) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/AbdusSamadAli/DSA-/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Dynamic Programming
@@ -496,6 +500,7 @@ this is modified
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AbdusSamadAli/DSA-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AbdusSamadAli/DSA-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AbdusSamadAli/DSA-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1873-longest-nice-substring](https://github.com/AbdusSamadAli/DSA-/tree/master/1873-longest-nice-substring) |
 | [3644-minimum-positive-sum-subarray](https://github.com/AbdusSamadAli/DSA-/tree/master/3644-minimum-positive-sum-subarray) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/AbdusSamadAli/DSA-/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Prefix Sum
