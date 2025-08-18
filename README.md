@@ -27,6 +27,7 @@ this is modified
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AbdusSamadAli/DSA-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AbdusSamadAli/DSA-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AbdusSamadAli/DSA-/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1610-xor-operation-in-an-array](https://github.com/AbdusSamadAli/DSA-/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/1635-number-of-good-pairs) |
 | [2050-count-good-numbers](https://github.com/AbdusSamadAli/DSA-/tree/master/2050-count-good-numbers) |
 | [2383-add-two-integers](https://github.com/AbdusSamadAli/DSA-/tree/master/2383-add-two-integers) |
@@ -407,6 +408,7 @@ this is modified
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AbdusSamadAli/DSA-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0795-k-th-symbol-in-grammar](https://github.com/AbdusSamadAli/DSA-/tree/master/0795-k-th-symbol-in-grammar) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AbdusSamadAli/DSA-/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1610-xor-operation-in-an-array](https://github.com/AbdusSamadAli/DSA-/tree/master/1610-xor-operation-in-an-array) |
 | [2159-two-out-of-three](https://github.com/AbdusSamadAli/DSA-/tree/master/2159-two-out-of-three) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/AbdusSamadAli/DSA-/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Dynamic Programming
