@@ -31,6 +31,7 @@ this is modified
 | [1635-number-of-good-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/1635-number-of-good-pairs) |
 | [2050-count-good-numbers](https://github.com/AbdusSamadAli/DSA-/tree/master/2050-count-good-numbers) |
 | [2383-add-two-integers](https://github.com/AbdusSamadAli/DSA-/tree/master/2383-add-two-integers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/AbdusSamadAli/DSA-/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2571-find-the-pivot-integer](https://github.com/AbdusSamadAli/DSA-/tree/master/2571-find-the-pivot-integer) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/AbdusSamadAli/DSA-/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Array
@@ -119,6 +120,7 @@ this is modified
 | [2159-two-out-of-three](https://github.com/AbdusSamadAli/DSA-/tree/master/2159-two-out-of-three) |
 | [2227-sum-of-subarray-ranges](https://github.com/AbdusSamadAli/DSA-/tree/master/2227-sum-of-subarray-ranges) |
 | [2428-equal-row-and-column-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/2428-equal-row-and-column-pairs) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/AbdusSamadAli/DSA-/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2714-left-and-right-sum-differences](https://github.com/AbdusSamadAli/DSA-/tree/master/2714-left-and-right-sum-differences) |
 | [3644-minimum-positive-sum-subarray](https://github.com/AbdusSamadAli/DSA-/tree/master/3644-minimum-positive-sum-subarray) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/AbdusSamadAli/DSA-/tree/master/3702-maximum-subarray-with-equal-products) |
