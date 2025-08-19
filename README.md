@@ -84,6 +84,7 @@ this is modified
 | [0882-peak-index-in-a-mountain-array](https://github.com/AbdusSamadAli/DSA-/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/AbdusSamadAli/DSA-/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/AbdusSamadAli/DSA-/tree/master/0907-koko-eating-bananas) |
+| [0917-boats-to-save-people](https://github.com/AbdusSamadAli/DSA-/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/AbdusSamadAli/DSA-/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/AbdusSamadAli/DSA-/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/AbdusSamadAli/DSA-/tree/master/0954-maximum-sum-circular-subarray) |
@@ -282,6 +283,7 @@ this is modified
 | [0389-find-the-difference](https://github.com/AbdusSamadAli/DSA-/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/AbdusSamadAli/DSA-/tree/master/0455-assign-cookies) |
+| [0917-boats-to-save-people](https://github.com/AbdusSamadAli/DSA-/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/AbdusSamadAli/DSA-/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/AbdusSamadAli/DSA-/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/AbdusSamadAli/DSA-/tree/master/1256-rank-transform-of-an-array) |
@@ -386,6 +388,7 @@ this is modified
 | [0567-permutation-in-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AbdusSamadAli/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0680-valid-palindrome-ii) |
+| [0917-boats-to-save-people](https://github.com/AbdusSamadAli/DSA-/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/AbdusSamadAli/DSA-/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/AbdusSamadAli/DSA-/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/AbdusSamadAli/DSA-/tree/master/1168-duplicate-zeros) |
@@ -476,6 +479,7 @@ this is modified
 | [0678-valid-parenthesis-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/AbdusSamadAli/DSA-/tree/master/0890-lemonade-change) |
+| [0917-boats-to-save-people](https://github.com/AbdusSamadAli/DSA-/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/AbdusSamadAli/DSA-/tree/master/0985-bag-of-tokens) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/AbdusSamadAli/DSA-/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/AbdusSamadAli/DSA-/tree/master/1159-smallest-subsequence-of-distinct-characters) |
