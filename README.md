@@ -122,6 +122,7 @@ this is modified
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AbdusSamadAli/DSA-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2159-two-out-of-three](https://github.com/AbdusSamadAli/DSA-/tree/master/2159-two-out-of-three) |
 | [2227-sum-of-subarray-ranges](https://github.com/AbdusSamadAli/DSA-/tree/master/2227-sum-of-subarray-ranges) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/AbdusSamadAli/DSA-/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2428-equal-row-and-column-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AbdusSamadAli/DSA-/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2714-left-and-right-sum-differences](https://github.com/AbdusSamadAli/DSA-/tree/master/2714-left-and-right-sum-differences) |
@@ -292,6 +293,7 @@ this is modified
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbdusSamadAli/DSA-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AbdusSamadAli/DSA-/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/AbdusSamadAli/DSA-/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 ## Counting
 |  |
 | ------- |
@@ -487,6 +489,7 @@ this is modified
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/AbdusSamadAli/DSA-/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/AbdusSamadAli/DSA-/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1252-break-a-palindrome](https://github.com/AbdusSamadAli/DSA-/tree/master/1252-break-a-palindrome) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/AbdusSamadAli/DSA-/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 ## Simulation
 |  |
 | ------- |
