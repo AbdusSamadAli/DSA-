@@ -22,6 +22,7 @@ this is modified
 | [0412-fizz-buzz](https://github.com/AbdusSamadAli/DSA-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AbdusSamadAli/DSA-/tree/master/0415-add-strings) |
 | [0795-k-th-symbol-in-grammar](https://github.com/AbdusSamadAli/DSA-/tree/master/0795-k-th-symbol-in-grammar) |
+| [1033-broken-calculator](https://github.com/AbdusSamadAli/DSA-/tree/master/1033-broken-calculator) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AbdusSamadAli/DSA-/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AbdusSamadAli/DSA-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AbdusSamadAli/DSA-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -482,6 +483,7 @@ this is modified
 | [0890-lemonade-change](https://github.com/AbdusSamadAli/DSA-/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/AbdusSamadAli/DSA-/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/AbdusSamadAli/DSA-/tree/master/0985-bag-of-tokens) |
+| [1033-broken-calculator](https://github.com/AbdusSamadAli/DSA-/tree/master/1033-broken-calculator) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/AbdusSamadAli/DSA-/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/AbdusSamadAli/DSA-/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1252-break-a-palindrome](https://github.com/AbdusSamadAli/DSA-/tree/master/1252-break-a-palindrome) |
