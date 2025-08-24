@@ -112,6 +112,7 @@ this is modified
 | [1651-shuffle-string](https://github.com/AbdusSamadAli/DSA-/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/AbdusSamadAli/DSA-/tree/master/1677-matrix-diagonal-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AbdusSamadAli/DSA-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/AbdusSamadAli/DSA-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1753-path-with-minimum-effort](https://github.com/AbdusSamadAli/DSA-/tree/master/1753-path-with-minimum-effort) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AbdusSamadAli/DSA-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/AbdusSamadAli/DSA-/tree/master/1791-richest-customer-wealth) |
@@ -199,6 +200,7 @@ this is modified
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AbdusSamadAli/DSA-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1651-shuffle-string](https://github.com/AbdusSamadAli/DSA-/tree/master/1651-shuffle-string) |
 | [1666-make-the-string-great](https://github.com/AbdusSamadAli/DSA-/tree/master/1666-make-the-string-great) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/AbdusSamadAli/DSA-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AbdusSamadAli/DSA-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AbdusSamadAli/DSA-/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AbdusSamadAli/DSA-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -445,6 +447,7 @@ this is modified
 | [0943-sum-of-subarray-minimums](https://github.com/AbdusSamadAli/DSA-/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/AbdusSamadAli/DSA-/tree/master/0954-maximum-sum-circular-subarray) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AbdusSamadAli/DSA-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/AbdusSamadAli/DSA-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/AbdusSamadAli/DSA-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Depth-First Search
 |  |
@@ -489,6 +492,7 @@ this is modified
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/AbdusSamadAli/DSA-/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/AbdusSamadAli/DSA-/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1252-break-a-palindrome](https://github.com/AbdusSamadAli/DSA-/tree/master/1252-break-a-palindrome) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/AbdusSamadAli/DSA-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/AbdusSamadAli/DSA-/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 ## Simulation
 |  |
