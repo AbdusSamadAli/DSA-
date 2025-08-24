@@ -130,6 +130,7 @@ this is modified
 | [2428-equal-row-and-column-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AbdusSamadAli/DSA-/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2714-left-and-right-sum-differences](https://github.com/AbdusSamadAli/DSA-/tree/master/2714-left-and-right-sum-differences) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/AbdusSamadAli/DSA-/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3644-minimum-positive-sum-subarray](https://github.com/AbdusSamadAli/DSA-/tree/master/3644-minimum-positive-sum-subarray) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/AbdusSamadAli/DSA-/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AbdusSamadAli/DSA-/tree/master/3799-unique-3-digit-even-numbers) |
@@ -304,6 +305,7 @@ this is modified
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/AbdusSamadAli/DSA-/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/AbdusSamadAli/DSA-/tree/master/1961-maximum-ice-cream-bars) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/AbdusSamadAli/DSA-/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/AbdusSamadAli/DSA-/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Counting
 |  |
 | ------- |
@@ -507,6 +509,7 @@ this is modified
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/AbdusSamadAli/DSA-/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/AbdusSamadAli/DSA-/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2487-optimal-partition-of-string](https://github.com/AbdusSamadAli/DSA-/tree/master/2487-optimal-partition-of-string) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/AbdusSamadAli/DSA-/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Simulation
 |  |
 | ------- |
