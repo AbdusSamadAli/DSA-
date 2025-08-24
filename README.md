@@ -123,6 +123,7 @@ this is modified
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AbdusSamadAli/DSA-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2159-two-out-of-three](https://github.com/AbdusSamadAli/DSA-/tree/master/2159-two-out-of-three) |
 | [2227-sum-of-subarray-ranges](https://github.com/AbdusSamadAli/DSA-/tree/master/2227-sum-of-subarray-ranges) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/AbdusSamadAli/DSA-/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/AbdusSamadAli/DSA-/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2428-equal-row-and-column-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AbdusSamadAli/DSA-/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -269,6 +270,7 @@ this is modified
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AbdusSamadAli/DSA-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/AbdusSamadAli/DSA-/tree/master/1904-second-largest-digit-in-a-string) |
 | [2159-two-out-of-three](https://github.com/AbdusSamadAli/DSA-/tree/master/2159-two-out-of-three) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/AbdusSamadAli/DSA-/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2428-equal-row-and-column-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/2428-equal-row-and-column-pairs) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AbdusSamadAli/DSA-/tree/master/3799-unique-3-digit-even-numbers) |
 ## Sorting
@@ -307,6 +309,7 @@ this is modified
 | [1635-number-of-good-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AbdusSamadAli/DSA-/tree/master/1777-determine-if-two-strings-are-close) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AbdusSamadAli/DSA-/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/AbdusSamadAli/DSA-/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -493,6 +496,7 @@ this is modified
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/AbdusSamadAli/DSA-/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1252-break-a-palindrome](https://github.com/AbdusSamadAli/DSA-/tree/master/1252-break-a-palindrome) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/AbdusSamadAli/DSA-/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/AbdusSamadAli/DSA-/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/AbdusSamadAli/DSA-/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 ## Simulation
 |  |
