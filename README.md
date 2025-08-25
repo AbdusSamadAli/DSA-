@@ -77,6 +77,7 @@ this is modified
 | [0503-next-greater-element-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AbdusSamadAli/DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/AbdusSamadAli/DSA-/tree/master/0542-01-matrix) |
+| [0624-maximum-distance-in-arrays](https://github.com/AbdusSamadAli/DSA-/tree/master/0624-maximum-distance-in-arrays) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AbdusSamadAli/DSA-/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/AbdusSamadAli/DSA-/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/AbdusSamadAli/DSA-/tree/master/0735-asteroid-collision) |
@@ -498,6 +499,7 @@ this is modified
 | [0334-increasing-triplet-subsequence](https://github.com/AbdusSamadAli/DSA-/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/AbdusSamadAli/DSA-/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/AbdusSamadAli/DSA-/tree/master/0455-assign-cookies) |
+| [0624-maximum-distance-in-arrays](https://github.com/AbdusSamadAli/DSA-/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/AbdusSamadAli/DSA-/tree/master/0890-lemonade-change) |
