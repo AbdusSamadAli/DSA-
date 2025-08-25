@@ -122,6 +122,7 @@ this is modified
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/AbdusSamadAli/DSA-/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/AbdusSamadAli/DSA-/tree/master/1961-maximum-ice-cream-bars) |
 | [2047-find-a-peak-element-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/2047-find-a-peak-element-ii) |
+| [2049-eliminate-maximum-number-of-monsters](https://github.com/AbdusSamadAli/DSA-/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2102-find-the-middle-index-in-array](https://github.com/AbdusSamadAli/DSA-/tree/master/2102-find-the-middle-index-in-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AbdusSamadAli/DSA-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2159-two-out-of-three](https://github.com/AbdusSamadAli/DSA-/tree/master/2159-two-out-of-three) |
@@ -306,6 +307,7 @@ this is modified
 | [1798-max-number-of-k-sum-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/AbdusSamadAli/DSA-/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/AbdusSamadAli/DSA-/tree/master/1961-maximum-ice-cream-bars) |
+| [2049-eliminate-maximum-number-of-monsters](https://github.com/AbdusSamadAli/DSA-/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/AbdusSamadAli/DSA-/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/AbdusSamadAli/DSA-/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Counting
@@ -508,6 +510,7 @@ this is modified
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/AbdusSamadAli/DSA-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/AbdusSamadAli/DSA-/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/AbdusSamadAli/DSA-/tree/master/1961-maximum-ice-cream-bars) |
+| [2049-eliminate-maximum-number-of-monsters](https://github.com/AbdusSamadAli/DSA-/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/AbdusSamadAli/DSA-/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/AbdusSamadAli/DSA-/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/AbdusSamadAli/DSA-/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
