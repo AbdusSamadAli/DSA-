@@ -31,6 +31,7 @@ this is modified
 | [1610-xor-operation-in-an-array](https://github.com/AbdusSamadAli/DSA-/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/1635-number-of-good-pairs) |
 | [2050-count-good-numbers](https://github.com/AbdusSamadAli/DSA-/tree/master/2050-count-good-numbers) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/AbdusSamadAli/DSA-/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2383-add-two-integers](https://github.com/AbdusSamadAli/DSA-/tree/master/2383-add-two-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AbdusSamadAli/DSA-/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2571-find-the-pivot-integer](https://github.com/AbdusSamadAli/DSA-/tree/master/2571-find-the-pivot-integer) |
@@ -214,6 +215,7 @@ this is modified
 | [1904-second-largest-digit-in-a-string](https://github.com/AbdusSamadAli/DSA-/tree/master/1904-second-largest-digit-in-a-string) |
 | [2128-reverse-prefix-of-word](https://github.com/AbdusSamadAli/DSA-/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AbdusSamadAli/DSA-/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/AbdusSamadAli/DSA-/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2470-removing-stars-from-a-string](https://github.com/AbdusSamadAli/DSA-/tree/master/2470-removing-stars-from-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/AbdusSamadAli/DSA-/tree/master/2487-optimal-partition-of-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AbdusSamadAli/DSA-/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -506,6 +508,7 @@ this is modified
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/AbdusSamadAli/DSA-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/AbdusSamadAli/DSA-/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/AbdusSamadAli/DSA-/tree/master/1961-maximum-ice-cream-bars) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/AbdusSamadAli/DSA-/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/AbdusSamadAli/DSA-/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/AbdusSamadAli/DSA-/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2487-optimal-partition-of-string](https://github.com/AbdusSamadAli/DSA-/tree/master/2487-optimal-partition-of-string) |
@@ -686,4 +689,8 @@ this is modified
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AbdusSamadAli/DSA-/tree/master/0214-shortest-palindrome) |
+## Game Theory
+|  |
+| ------- |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/AbdusSamadAli/DSA-/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 <!---LeetCode Topics End-->
