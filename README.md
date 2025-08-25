@@ -132,6 +132,7 @@ this is modified
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/AbdusSamadAli/DSA-/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2428-equal-row-and-column-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AbdusSamadAli/DSA-/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AbdusSamadAli/DSA-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2714-left-and-right-sum-differences](https://github.com/AbdusSamadAli/DSA-/tree/master/2714-left-and-right-sum-differences) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/AbdusSamadAli/DSA-/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3644-minimum-positive-sum-subarray](https://github.com/AbdusSamadAli/DSA-/tree/master/3644-minimum-positive-sum-subarray) |
@@ -161,6 +162,7 @@ this is modified
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AbdusSamadAli/DSA-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1753-path-with-minimum-effort](https://github.com/AbdusSamadAli/DSA-/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/2047-find-a-peak-element-ii) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AbdusSamadAli/DSA-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## String
 |  |
 | ------- |
@@ -281,6 +283,7 @@ this is modified
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/AbdusSamadAli/DSA-/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2428-equal-row-and-column-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/2428-equal-row-and-column-pairs) |
 | [2487-optimal-partition-of-string](https://github.com/AbdusSamadAli/DSA-/tree/master/2487-optimal-partition-of-string) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AbdusSamadAli/DSA-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AbdusSamadAli/DSA-/tree/master/3799-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
@@ -310,6 +313,7 @@ this is modified
 | [1961-maximum-ice-cream-bars](https://github.com/AbdusSamadAli/DSA-/tree/master/1961-maximum-ice-cream-bars) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/AbdusSamadAli/DSA-/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/AbdusSamadAli/DSA-/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AbdusSamadAli/DSA-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/AbdusSamadAli/DSA-/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Counting
 |  |
@@ -517,6 +521,7 @@ this is modified
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/AbdusSamadAli/DSA-/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/AbdusSamadAli/DSA-/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2487-optimal-partition-of-string](https://github.com/AbdusSamadAli/DSA-/tree/master/2487-optimal-partition-of-string) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AbdusSamadAli/DSA-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/AbdusSamadAli/DSA-/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Simulation
 |  |
