@@ -77,6 +77,7 @@ this is modified
 | [0503-next-greater-element-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AbdusSamadAli/DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/AbdusSamadAli/DSA-/tree/master/0542-01-matrix) |
+| [0561-array-partition](https://github.com/AbdusSamadAli/DSA-/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/AbdusSamadAli/DSA-/tree/master/0624-maximum-distance-in-arrays) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AbdusSamadAli/DSA-/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/AbdusSamadAli/DSA-/tree/master/0724-find-pivot-index) |
@@ -303,6 +304,7 @@ this is modified
 | [0389-find-the-difference](https://github.com/AbdusSamadAli/DSA-/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/AbdusSamadAli/DSA-/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/AbdusSamadAli/DSA-/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/AbdusSamadAli/DSA-/tree/master/0561-array-partition) |
 | [0917-boats-to-save-people](https://github.com/AbdusSamadAli/DSA-/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/AbdusSamadAli/DSA-/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/AbdusSamadAli/DSA-/tree/master/1019-squares-of-a-sorted-array) |
@@ -504,6 +506,7 @@ this is modified
 | [0334-increasing-triplet-subsequence](https://github.com/AbdusSamadAli/DSA-/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/AbdusSamadAli/DSA-/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/AbdusSamadAli/DSA-/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/AbdusSamadAli/DSA-/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/AbdusSamadAli/DSA-/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/AbdusSamadAli/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/0680-valid-palindrome-ii) |
@@ -674,6 +677,7 @@ this is modified
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/AbdusSamadAli/DSA-/tree/master/0561-array-partition) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbdusSamadAli/DSA-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1961-maximum-ice-cream-bars](https://github.com/AbdusSamadAli/DSA-/tree/master/1961-maximum-ice-cream-bars) |
 ## Interactive
