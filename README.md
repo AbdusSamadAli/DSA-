@@ -122,6 +122,7 @@ this is modified
 | [1791-richest-customer-wealth](https://github.com/AbdusSamadAli/DSA-/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AbdusSamadAli/DSA-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/AbdusSamadAli/DSA-/tree/master/1833-find-the-highest-altitude) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/AbdusSamadAli/DSA-/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/AbdusSamadAli/DSA-/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/AbdusSamadAli/DSA-/tree/master/1961-maximum-ice-cream-bars) |
 | [2047-find-a-peak-element-ii](https://github.com/AbdusSamadAli/DSA-/tree/master/2047-find-a-peak-element-ii) |
@@ -525,6 +526,7 @@ this is modified
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/AbdusSamadAli/DSA-/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1252-break-a-palindrome](https://github.com/AbdusSamadAli/DSA-/tree/master/1252-break-a-palindrome) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/AbdusSamadAli/DSA-/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/AbdusSamadAli/DSA-/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/AbdusSamadAli/DSA-/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/AbdusSamadAli/DSA-/tree/master/1961-maximum-ice-cream-bars) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/AbdusSamadAli/DSA-/tree/master/2049-eliminate-maximum-number-of-monsters) |
