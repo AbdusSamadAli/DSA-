@@ -222,6 +222,7 @@ this is modified
 | [2128-reverse-prefix-of-word](https://github.com/AbdusSamadAli/DSA-/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AbdusSamadAli/DSA-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/AbdusSamadAli/DSA-/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2154-minimum-moves-to-convert-string](https://github.com/AbdusSamadAli/DSA-/tree/master/2154-minimum-moves-to-convert-string) |
 | [2470-removing-stars-from-a-string](https://github.com/AbdusSamadAli/DSA-/tree/master/2470-removing-stars-from-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/AbdusSamadAli/DSA-/tree/master/2487-optimal-partition-of-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AbdusSamadAli/DSA-/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -522,6 +523,7 @@ this is modified
 | [1961-maximum-ice-cream-bars](https://github.com/AbdusSamadAli/DSA-/tree/master/1961-maximum-ice-cream-bars) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/AbdusSamadAli/DSA-/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/AbdusSamadAli/DSA-/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2154-minimum-moves-to-convert-string](https://github.com/AbdusSamadAli/DSA-/tree/master/2154-minimum-moves-to-convert-string) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/AbdusSamadAli/DSA-/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/AbdusSamadAli/DSA-/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2487-optimal-partition-of-string](https://github.com/AbdusSamadAli/DSA-/tree/master/2487-optimal-partition-of-string) |
