@@ -135,6 +135,7 @@ this is modified
 | [2432-number-of-zero-filled-subarrays](https://github.com/AbdusSamadAli/DSA-/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AbdusSamadAli/DSA-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2714-left-and-right-sum-differences](https://github.com/AbdusSamadAli/DSA-/tree/master/2714-left-and-right-sum-differences) |
+| [2756-buy-two-chocolates](https://github.com/AbdusSamadAli/DSA-/tree/master/2756-buy-two-chocolates) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/AbdusSamadAli/DSA-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/AbdusSamadAli/DSA-/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3644-minimum-positive-sum-subarray](https://github.com/AbdusSamadAli/DSA-/tree/master/3644-minimum-positive-sum-subarray) |
@@ -318,6 +319,7 @@ this is modified
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/AbdusSamadAli/DSA-/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/AbdusSamadAli/DSA-/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AbdusSamadAli/DSA-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2756-buy-two-chocolates](https://github.com/AbdusSamadAli/DSA-/tree/master/2756-buy-two-chocolates) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/AbdusSamadAli/DSA-/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Counting
 |  |
@@ -528,6 +530,7 @@ this is modified
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/AbdusSamadAli/DSA-/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2487-optimal-partition-of-string](https://github.com/AbdusSamadAli/DSA-/tree/master/2487-optimal-partition-of-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AbdusSamadAli/DSA-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2756-buy-two-chocolates](https://github.com/AbdusSamadAli/DSA-/tree/master/2756-buy-two-chocolates) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/AbdusSamadAli/DSA-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/AbdusSamadAli/DSA-/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Simulation
