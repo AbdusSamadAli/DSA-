@@ -140,6 +140,7 @@ this is modified
 | [2714-left-and-right-sum-differences](https://github.com/AbdusSamadAli/DSA-/tree/master/2714-left-and-right-sum-differences) |
 | [2756-buy-two-chocolates](https://github.com/AbdusSamadAli/DSA-/tree/master/2756-buy-two-chocolates) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/AbdusSamadAli/DSA-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3262-find-polygon-with-the-largest-perimeter](https://github.com/AbdusSamadAli/DSA-/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/AbdusSamadAli/DSA-/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3644-minimum-positive-sum-subarray](https://github.com/AbdusSamadAli/DSA-/tree/master/3644-minimum-positive-sum-subarray) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/AbdusSamadAli/DSA-/tree/master/3702-maximum-subarray-with-equal-products) |
@@ -325,6 +326,7 @@ this is modified
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/AbdusSamadAli/DSA-/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AbdusSamadAli/DSA-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2756-buy-two-chocolates](https://github.com/AbdusSamadAli/DSA-/tree/master/2756-buy-two-chocolates) |
+| [3262-find-polygon-with-the-largest-perimeter](https://github.com/AbdusSamadAli/DSA-/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/AbdusSamadAli/DSA-/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Counting
 |  |
@@ -540,6 +542,7 @@ this is modified
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AbdusSamadAli/DSA-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2756-buy-two-chocolates](https://github.com/AbdusSamadAli/DSA-/tree/master/2756-buy-two-chocolates) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/AbdusSamadAli/DSA-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3262-find-polygon-with-the-largest-perimeter](https://github.com/AbdusSamadAli/DSA-/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/AbdusSamadAli/DSA-/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Simulation
 |  |
@@ -584,6 +587,7 @@ this is modified
 | [2102-find-the-middle-index-in-array](https://github.com/AbdusSamadAli/DSA-/tree/master/2102-find-the-middle-index-in-array) |
 | [2571-find-the-pivot-integer](https://github.com/AbdusSamadAli/DSA-/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/AbdusSamadAli/DSA-/tree/master/2714-left-and-right-sum-differences) |
+| [3262-find-polygon-with-the-largest-perimeter](https://github.com/AbdusSamadAli/DSA-/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3644-minimum-positive-sum-subarray](https://github.com/AbdusSamadAli/DSA-/tree/master/3644-minimum-positive-sum-subarray) |
 ## Breadth-First Search
 |  |
